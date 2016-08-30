@@ -9,7 +9,13 @@
     <meta name="author" content="Startup 404 Team StartAix">
     <link rel="icon" href="views/img/favicon.png">
 
-    <title>StartAix</title>
+    <title>
+        <?php
+            echo isset($title)
+                ? $title." - StartAix"
+                : "StartAix";
+        ?>
+    </title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">

@@ -2,5 +2,13 @@ body{
     padding-top: 50px;
 }
 .jumbotron{
-    background: url("/assets/img/SliderBG.jpg");
+    background-image: url("../img/bg.png");
+    background-size: cover;
+    text-align: center;
+}
+.jumbotron h1{
+    color: whitesmoke;
+}
+.jumbotron p{
+    color: whitesmoke;
 }

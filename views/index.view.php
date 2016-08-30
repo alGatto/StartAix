@@ -1,5 +1,5 @@
-
 <?php include "partials/_header.php"; ?>
+<?php include "includes/constants.php"; ?>
 
 <body>
 <?php include "partials/_navbar.php"; ?>

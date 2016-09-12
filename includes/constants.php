@@ -6,3 +6,4 @@
  * Time: 22:22
  */
 define('WEBSITE_NAME', 'StartAix');
+define('WEBSITE_URL', 'http://localhost:8888/StartAix');

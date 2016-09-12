@@ -9,7 +9,7 @@
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
             <h1 class="display-3">Trouvez la startup que vous méritez.</h1>
-            <p class="lead">Ce site présente les différentes startup venant de l'école Ynov.</p>
+            <p class="lead">Il n'y a pas de meilleur endroit pour débuter.</p>
             <p><a class="btn btn-primary btn-lg" href="register.php" role="button">Inscrivez-vous &raquo;</a></p>
         </div>
     </div>

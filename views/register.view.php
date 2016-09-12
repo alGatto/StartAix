@@ -1,5 +1,5 @@
 <?php $title="Inscription";?>
-<?php include "includes/constants.php"; ?>
+<!--<?php include "includes/constants.php"; ?>-->
 <?php include "partials/_header.php"; ?>
 
 <body>
@@ -9,7 +9,7 @@
 
         <div class="container">
             <h1 class="text-center">Devenez membre</h1>
-
+            <?php include "partials/_errors.php"; ?>
             <form method="post" class="well col-md-6 col-md-offset-3">
                 <!-- Champ nom-->
                 <div class="form-group">
